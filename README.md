@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![name-of-your-image](https://media-exp1.licdn.com/dms/image/C4D16AQHwe0aRaGZA1Q/profile-displaybackgroundimage-shrink_200_800/0/1645733590937?e=1651104000&v=beta&t=SUmzpJF3e3XZwmVHW4NFoG7zVHrE9YmZifIIB8J3DNc)
+![name-of-your-image](https://github.com/Borba02/Borba02/blob/main/Blue%20Minimalist%20Futuristic%20Linkedin%20Banner%20(4).png?raw=true)
