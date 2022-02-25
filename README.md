@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hey 👋🏻,
 
-I am a tech enthusiast and Software Engineer from California
+I am a tech enthusiast and Software Engineer from California.
 I am interested in, write about, and develop (open source) software solutions
 using JavaScript and React. I have just started my learning journey with C# and .NET
 I am open to collaborations, please reach me at one of the contact options below!
