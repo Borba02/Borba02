@@ -19,7 +19,7 @@ Hey 👋🏻,
 
 I am a tech enthusiast and Software Engineer from California.
 I am interested in and develop software solutions
-using JavaScript and React. I have just started my learning journey with C# and .NET
+using JavaScript, React, C# and .NET.
 I am open to collaborations, please reach me at one of the contact options below!
 
 ## 📬 Get in touch
