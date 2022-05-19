@@ -30,11 +30,11 @@ I am open to collaborations, please reach me at one of the contact options below
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/Borba02/Borba02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borba02&hide=java,html&title_color=000000&text_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Borba02&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=000000&text_color=000000" alt="Bryce's github stats"  />
 </a>
 
 <a href="https://github.com/Borba02/Borba02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Borba02&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="Borba02's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borba02&layout=compact&theme=buefy&hide_border=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="Bryce's GitHub Stats" />
 </a>
 
 
